@@ -6,3 +6,4 @@ This is to practice
 This is our second addition of lines to README.
 
 This is being added from dev.
+This is also being added from dev.
